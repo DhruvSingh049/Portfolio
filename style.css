@@ -380,7 +380,7 @@ section .title::after{
 
 /* projects.projects section styling */
 .projects .title::after{
-    content: "what i have done";
+    content: "my work";
 }
 .projects .carousel .card{
     background: #222;
